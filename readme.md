@@ -14,10 +14,12 @@ plot_datastream.py 绘制数据流并在ElectricDevices_TEST中查找最相近�
 
 
 
-![plot1](C:\Users\shuzip\Desktop\plot_datastream\screenshot\plot1.png)
+![plot1](https://github.com/shuziP/plot-matching_datastream/blob/master/screenshot/plot1.png)
 
-![plot3](C:\Users\shuzip\Desktop\plot_datastream\screenshot\plot3.png)![plot2](C:\Users\shuzip\Desktop\plot_datastream\screenshot\plot2.png)
+![plot3](https://github.com/shuziP/plot-matching_datastream/blob/master/screenshot/plot3.png)
+
+![plot2](https://github.com/shuziP/plot-matching_datastream/blob/master/screenshot/plot2.png)
 
 打印输出：末尾为当前数据流与标签库中的误差。
 
-![print](C:\Users\shuzip\Desktop\plot_datastream\screenshot\print.png)
+![print](https://github.com/shuziP/plot-matching_datastream/blob/master/screenshot/print.png)
